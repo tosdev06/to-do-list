@@ -1,0 +1,31 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: aquamarine;
+
+}
+.container{
+  margin:auto;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 2px;
+  background-image: url("hhh.jpg");
+  min-height: 500px;
+  max-width: 500px;
+}
+.container header{
+    font-size: 30px;
+    font-family: compact;
+    color: rgb(43, 40, 40);
+}
+input{
+    width: 300px;
+    height: 40px;
+}
+ol{
+    text-align: left;
+    color:black;
+}
+button{
+    font-size: 30px;
+    margin-left: 30px;
+}
